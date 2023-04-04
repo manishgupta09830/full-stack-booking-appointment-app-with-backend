@@ -1,0 +1,13 @@
+body {
+    background-image: url();
+}
+form {
+text-align: center;
+border: 5px solid black;
+
+}
+button{
+       
+        font-size: 100%;
+        color: rgb(2, 104, 109);
+    }
